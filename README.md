@@ -7,7 +7,7 @@ This repository contains Python-based financial analysis and problem-solving wor
 ## Repository Structure
 
 ```text
-JP-Morgan-Financial-Analysis/
+JP-Morgan-Quantitative-Research-Job-Simulation/
 │
 ├── README.md
 |
@@ -21,6 +21,8 @@ JP-Morgan-Financial-Analysis/
 │   ├── Credit_risk_analysis.ipynb
 │   └── Natural_gas.ipynb
 │
+├── .gitignore
+|
 └── J.P. Morgan Certificate
 
 ```
