@@ -4,7 +4,26 @@
 
 This repository contains Python-based financial analysis and problem-solving work completed as part of a J.P. Morgan Quantitative Research Job Simulation
 
+## Repository Structure
 
+```text
+JP-Morgan-Financial-Analysis/
+│
+├── README.md
+|
+├── data/
+|
+├── scripts/
+|
+├── notebooks/
+│   ├── Bucket FICO scores.ipynb
+│   ├── contract_price_estimator.ipynb
+│   ├── Credit_risk_analysis.ipynb
+│   └── Natural_gas.ipynb
+│
+└── J.P. Morgan Certificate
+
+```
 
 ## Projects
 
@@ -85,26 +104,7 @@ A sample calculation in the notebook produces a contract value of **770.00** und
 - Scikit-learn
 - Jupyter Notebook
 
-## Repository Structure
 
-```text
-JP-Morgan-Financial-Analysis/
-│
-├── README.md
-|
-├── data/
-|
-├── scripts/
-|
-├── notebooks/
-│   ├── Bucket FICO scores.ipynb
-│   ├── contract_price_estimator.ipynb
-│   ├── Credit_risk_analysis.ipynb
-│   └── Natural_gas.ipynb
-│
-└── J.P. Morgan Certificate
-
-```
 
 ## Key Skills Demonstrated
 
